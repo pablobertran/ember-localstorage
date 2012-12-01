@@ -1,0 +1,20 @@
+{
+  "name": "ember-localstorage",
+  "repo": "kelonye/ember-localstorage",
+  "version": "9",
+  "description": "Store your ember application data in localStorage.",
+  "dependencies":{
+    "kelonye/data":"9"
+  },
+  "keywords": [
+    "ember",
+    "emberjs",
+    "ember-data",
+    "django",
+    "localstorage"
+  ],
+  "scripts":[
+    "index.js"
+  ]
+}
+
