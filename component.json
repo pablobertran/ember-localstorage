@@ -4,13 +4,12 @@
   "version": "9",
   "description": "Store your ember application data in localStorage.",
   "dependencies":{
-    "kelonye/data":"9"
+    "kelonye/data":"*"
   },
   "keywords": [
     "ember",
     "emberjs",
     "ember-data",
-    "django",
     "localstorage"
   ],
   "scripts":[
