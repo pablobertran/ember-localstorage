@@ -2,9 +2,10 @@
   "name": "ember-localstorage",
   "repo": "kelonye/ember-localstorage",
   "version": "9",
+  "license": "MIT",
   "description": "Store your ember application data in localStorage.",
   "dependencies":{
-    "kelonye/data":"*"
+    "kelonye/ember-data":"*"
   },
   "keywords": [
     "ember",
